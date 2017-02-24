@@ -1,3 +1,3 @@
 # hello-world
 
-From omputer science major at CUNY Brooklyn College.
+From computer science major at CUNY Brooklyn College.
